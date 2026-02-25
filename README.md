@@ -1,26 +1,55 @@
 ## Hi there 👋
 
-Hi, I'm Sumukh Vijendra Manvi
-📊 Aspiring Data Analyst | LLM Enthusiast | AI Explorer
-Driven by curiosity and data. I’m passionate about uncovering insights from complex datasets and exploring how large language models (LLMs) can enhance decision-making, automation, and knowledge extraction.
+Hi, I'm **Sumukh Vijendra Manvi**  
+💻 **Software Developer | Python | Backend & Full-Stack**
 
-💡 Skills
-🔹 Data Analysis & Visualization
-Python (pandas, NumPy), Power BI, Excel, Matplotlib, Seaborn
-🔹 AI & LLMs
-Prompt Engineering, Fine-Tuning, Model Evaluation, Embeddings
-🔹 Data Handling
-Data Cleaning, EDA, Feature Engineering, Statistical Analysis
-🔹 Tools & Platforms
-Power BI, Jupyter, Google Colab, FFmpeg
+I build software systems with a strong focus on backend development, APIs, automation, and AI-powered applications.  
+I enjoy turning ideas into working products using Python, web technologies, and data-driven logic.
 
-🔍 What I'm Working On
-📊 Exploring data-driven storytelling with visual dashboards
-🤖 Experimenting with LLMs to augment analytical workflows
-🔎 Learning advanced analytics techniques to drive business insights
+---
 
-🌟 Achievements
-🏆 Qualified CUET PG for MSc Physics and JEE MAINS 2018 – showcasing strong analytical foundations
-📈 Achieved 60.9% long-term savings rate through personal finance data tracking
-📊 Analyzed e-commerce datasets to uncover market patterns and pricing insights
-🧠 Trained AI models across domains, contributing to smarter educational tools
+## 💡 Technical Skills
+
+### 🔹 Backend & Full-Stack Development
+Python, Flask, FastAPI, REST APIs, JWT Authentication, CRUD Operations
+
+### 🔹 Databases
+SQLite, MySQL, SQL Queries, Schema Design
+
+### 🔹 Frontend
+HTML, CSS, JavaScript (UI design, animations, responsive layouts)
+
+### 🔹 AI & Automation
+LLM API integration (Groq LLaMA), AI-driven insights, workflow automation, FFmpeg
+
+### 🔹 Tools & Platforms
+Git, GitHub, Jupyter, VS Code, Power BI
+
+---
+
+## 🔍 What I'm Working On
+
+🚀 Building backend-driven web applications with Python and Flask/FastAPI  
+🤖 Integrating AI models into real-world applications for insights and automation  
+🛠 Improving system performance, APIs, and developer workflows  
+
+---
+
+## 🌟 Projects & Experience Highlights
+
+🧠 Built an **AI-powered personal journaling web application** with sentiment and emotional analysis using Flask and Groq LLaMA API  
+🗄 Implemented full CRUD functionality with SQLite for structured data storage  
+🎨 Designed a premium UI with glassmorphism effects and particle animations  
+⚙️ Automated media processing pipelines generating 1,000+ assets/month during a software development internship  
+📈 Worked on **technical SEO analytics**, collaborating with engineers to resolve performance and system-level issues  
+
+---
+
+## 🎯 Interests
+
+Backend engineering • Full-stack development • AI-powered applications • System optimization • Developer tooling
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/sumukh-manvi-862bb3296/) • [GitHub](https://github.com/neo-matrx)
